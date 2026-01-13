@@ -69,7 +69,7 @@ launchlink/
 
 ⚠️ **This project is not currently being maintained and is not kept up-to-date.**
 
-This repository is for showcase purposes only. The codebase may contain outdated dependencies, security vulnerabilities, or deprecated patterns. Use at your own discretion.
+This project was originally developed for a client. This repository is now for showcase purposes only. The codebase may contain outdated dependencies, security vulnerabilities, or deprecated patterns. Use at your own discretion.
 
 **Note**: The waitlist functionality will not work in the live demo site as the MongoDB database connection is not available. The waitlist form is displayed for visual purposes only.
 
